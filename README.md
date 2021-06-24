@@ -1,3 +1,3 @@
 ### Mixed-Messages
 
-This is a script that trow a message with 3 variables wich each one of them has also 3 variables
+This is a script that throw a message with 3 variables which each one of them has also 3 variables
